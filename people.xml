@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<xml>
+  <records>
+    <record>
+      <ref-type name="Journal Article">17</ref-type>
+      <contributors>
+        <authors>
+          <author>
+            <style face="normal" font="default" size="100%">柴路</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">胡明列</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">方晓惠</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">刘博文</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">宋有建</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">栗岩锋</style>
+          </author>
+          <author>
+            <style face="normal" font="default" size="100%">王清月</style>
+          </author>
+        </authors>
+      </contributors>
+      <auth-address>
+        <style face="normal" font="default" size="100%">天津大学精密仪器与光电子工程学院超快激光研究室 光电信息技术教育部重点实验室;</style>
+      </auth-address>
+      <titles>
+        <title>
+          <style face="normal" font="default" size="100%">光子晶体光纤飞秒激光技术研究进展</style>
+        </title>
+        <secondary-title>
+          <style face="normal" font="default" size="100%">中国激光</style>
+        </secondary-title>
+      </titles>
+      <periodical>
+        <full-title>
+          <style face="normal" font="default" size="100%">中国激光</style>
+        </full-title>
+      </periodical>
+      <dates>
+        <year>
+          <style face="normal" font="default" size="100%">2013</style>
+        </year>
+      </dates>
+      <number>
+        <style face="normal" font="default" size="100%">01</style>
+      </number>
+      <keywords>
+        <keyword>
+          <style face="normal" font="default" size="100%">激光技术</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">光子晶体光纤</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">飞秒激光</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">高功率</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">高能量</style>
+        </keyword>
+      </keywords>
+      <abstract>
+        <style face="normal" font="default" size="100%">光子晶体光纤自诞生至今的十几年来得到了快速发展,不同结构和各具特色的光子晶体光纤层出不穷。以应用于飞秒激光技术的各种光子晶体光纤为主线,介绍了目前基于光子晶体光纤飞秒激光技术的实验研究进展,尤其是高功率、高能量飞秒激光系统的研究现状和发展方向。</style>
+      </abstract>
+      <pages>
+        <style face="normal" font="default" size="100%">7-20</style>
+      </pages>
+      <isbn>
+        <style face="normal" font="default" size="100%">0258-7025</style>
+      </isbn>
+      <call-num>
+        <style face="normal" font="default" size="100%">31-1339/TN</style>
+      </call-num>
+      <remote-database-provider>
+        <style face="normal" font="default" size="100%">CNKI</style>
+      </remote-database-provider>
+    </record>
+    <record>
+      <ref-type name="Journal Article">32</ref-type>
+      <contributors>
+        <authors>
+          <author>
+            <style face="normal" font="default" size="100%">陶海岩</style>
+          </author>
+        </authors>
+        <tertiary-authors>
+          <style face="normal" font="default" size="100%">林景全</style>
+        </tertiary-authors>
+      </contributors>
+      <titles>
+        <title>
+          <style face="normal" font="default" size="100%">飞秒激光固体材料表面微纳结构制备及其功能特性的研究</style>
+        </title>
+      </titles>
+      <publisher>
+        <style face="normal" font="default" size="100%">长春理工大学</style>
+      </publisher>
+      <work-type>
+        <style face="normal" font="default" size="100%">博士</style>
+      </work-type>
+      <dates>
+        <year>
+          <style face="normal" font="default" size="100%">2014</style>
+        </year>
+      </dates>
+      <keywords>
+        <keyword>
+          <style face="normal" font="default" size="100%">飞秒激光</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">光吸收</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">表面润湿性</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">超疏水性</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">等离子体丝</style>
+        </keyword>
+        <keyword>
+          <style face="normal" font="default" size="100%">周期微纳结构多功能微结构</style>
+        </keyword>
+      </keywords>
+      <abstract>
+        <style face="normal" font="default" size="100%">在自然界生物表面各种功能微纳结构的启示下,人们通过应用飞秒激光在金属、半导体等表面制备出功能微纳结构,从而成功地改善材料的表面性能。固体表面新功能的实现及其技术的发展可以有效地为人类的生产和生活服务。例如,这些功能微纳结构可以进行材料表面的光学、润湿等性能的调控。固体表面功能性微纳结构的制备技术对实现高效太阳能的利用、金属表面润滑的改善及防腐自清洁、吸波材料等诸多领域的应用有着深远的意义。 	为了进一步加深对飞秒激光制备固体表面功能结构及其功能特性的理解,本文对该领域中所涉及的热点和关键物理问题开展了相应的研究。主要内容包括：开展了飞秒激光诱导金属表面亚波长周期性条纹结构、飞秒激光诱导硅表面微纳结构及其光学特性以及飞秒激光金属表面着色技术等方面的研究。进一步,利用飞秒激光制备出宽光波段高吸收“黑金属”,并对其吸光机理进行了分析和数值模拟,开展了利用飞秒激光在材料表面制备微纳结构的方法调控金属、硅材料的润湿性能,以及其多功能(同时具有宽带高吸光性及润湿性)特性集成的表面结构制备研究。最后,利用飞秒激光等离子体细丝进行在非平表面上制备功能微纳结构技术的研究。 	论文首先针对飞秒激光诱导金属表面亚波长周期性条纹结构进行了实验研究,并通过麦克斯韦-加内特理论和双温方程进行了亚波长周期性条纹结构形成的数值模拟,理论结果与实验结果符合的较好。随后开展了硅表面微纳结构的制备及其光学特性,研究了不同实验条件(气体环境、激光脉冲宽度、能量密度等)对硅表面微米尺度尖峰结构的影响,并对尖峰的构造机理和光吸收特性进行了分析和解释。通过进一步的实验探索,实现了大气环境下新型微米孔表面结构黑硅的制备,测试结果表明其对0.35-1μm波段的光有着良好的减反性能。 	在飞秒激光金属表面着色技术研究方面,通过控制实验条件(激光能量密度,扫描速度,扫描间距等)在铝样品上实现了各种颜色表面结构的制备,成功地获得了自然光照射条件下呈现白、金、棕、灰、黑等颜色的金属表面微纳结构,并对其成色机理进行了分析和解释。 	论文对黑色的金属表面结构进行了细致的研究,通过控制实验参数,在多种金属(铝、钛、镍和钼)表面制备了三种典型的、使金属表面呈现黑色的微纳结构(黑金属)：1)纳米结构覆盖的微米光栅沟槽结构；2)纳米结构覆盖的微米柱形结构；3)类球型亚微米结构。测试结果表明具有这三种典型微纳结构的黑金属从紫外到红外波段(0.2-2.5μm)的反射率小于10%,在有些波段处其光学反射率甚至低于1%。借助于典型纳米结构(光栅结构、半球、四面体等)模型,通过时域有限差分法(FDTD)对其光吸收特性进行数值模拟,研究了结构周期、间距、阵列排列状态等条件对光吸收特性的影响,特别针对目前还没有清晰物理解释的宽光谱吸收特性进行更深一步的讨论。通过具有纳米结构黑色钼金属的实验结果和麦克斯韦加内特理论修正后的模型,提出并证明了附着在百纳米球状结构(250-1000nm)表面的纳米颗粒(&lt;100nm)在宽谱光吸收中起着重要作用：纳米结构和空气组成的混合层因其介电环境的改变引起了吸收光谱的展宽,混合层与原有亚微米结构相结合进一步增强了宽谱范围内的光吸收。 	论文开展了通过在材料表面制备微纳结构的方法进行金属、硅等材料表面润湿性调控的研究。研究表明具有微米光栅沟槽结构的样品表面具有超亲水性,这是由于水在光栅沟槽结构产生的灯芯效应使其具有较强的水输运功能。同样,具有这种表面结构的硅也存在着相似的超亲水特性。然而,具有表面微柱结构样品的润湿特性却是超疏水的(接触角&gt;155°),且具备很小的滚动角和接触角滞后。这些疏水性能指标表明带有这种微柱结构的表面具备防腐、自清洁的功能。重要的是,不同于现有超疏水表面,其性能的获得通常需要借助在微纳结构的表面添加一层有机薄膜(如硅烷化处理),以减小表面能；我们在无需上述辅助工序的条件下,首次实现多功能微纳结构表面(同时具有宽带光谱吸收和超疏水特性)的飞秒激光单步制备(无需类似硅烷化的再处理),具有这种多功能微纳结构的金属表面可直接应用于各类自然环境。我们开展了将这种多功能金属表面的制备技术应用于提高太阳能热电发电器件光电转化效率方面的研究,即：将具有自清洁功能微柱表面结构的黑铝(厚度为300微米)覆盖在太阳能热电发电器件的表面做为太阳光吸体,对太阳能温差发电效率进行实验测试。结果表明：与覆盖无微结构的普通铝以及未覆盖铝的裸器件这两种情况相比,带有多功能表面结构铝的器件较其他两种情况的发电功率分别提高17.4和33.7倍。 	长期以来,在曲面样品上制备功能性微纳结构因其装置的极度复杂、甚至对某些面型的不适用一直是困扰着研究人员的一项技术难题,论文首次提出并开展了将飞秒激光等离子体细丝应用到微纳结构制备领域的技术方法,该方法在应用到制备非平表面上微纳结构时无需复杂的样品或激光束的五轴控制,可实现功能微纳结构制备技术从平面样品向曲面样品的扩展,解决了非平表面上微纳结构制备的这一技术难题。进一步,论文进行了激光条件(激光入射角度、偏振态等)对柱形微结构影响的实验研究,利用数值模拟结果对微柱形成机理和所得的实验结果进行了系统的分析和理论解释。 	本文进行了飞秒激光固体材料表面微纳结构制备及其功能特性的研究,加深了对超快激光条件下所诱导微纳结构的形成机理和其所展现出独特功能的物理原因的理解,在一定程度上拓展了现有的表面微纳制备技术。这项工作为下一步功能微纳结构的深入研究和更好的应用打下了坚实基础。</style>
+      </abstract>
+      <remote-database-provider>
+        <style face="normal" font="default" size="100%">CNKI</style>
+      </remote-database-provider>
+    </record>
+  </records>
+</xml>
