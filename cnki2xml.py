@@ -3,11 +3,6 @@ import sys
 import re
 import xml.dom.minidom
 
-txtFileName = sys.argv[1]
-
-txtFile = open(txtFileName, "r")
-tagFieldList = txtFile.readlines()
-
 def getFileName(fullFileName):
     for i in range(len(fullFileName)):
         if(fullFileName[i] == '.'):
@@ -53,6 +48,11 @@ def isPeriodical(list, index):
             return True
         index -= 1
     return False
+
+txtFileName = sys.argv[1]
+
+txtFile = open(txtFileName, "r")
+tagFieldList = txtFile.readlines()
 
 index = 0
 while index < len(tagFieldList):
