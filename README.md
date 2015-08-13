@@ -3,106 +3,106 @@ Python脚本：将cnki导出的文献转化为Papers® for Mac可导入的Endnot
 
 Endnote®的导入文件中的tag和reference对应列表：
 
-Tag		EndNote Generic Field Name
+Tag					EndNote Generic Field Name
 
-%A		Author
+%A					Author
 
-%B		Secondary Title (of a Book or Conference Name)
+%B					Secondary Title (of a Book or Conference Name)
 
-%C		Place Published
+%C					Place Published
 
-%D		Year
+%D					Year
 
-%E		Editor /Secondary Author
+%E					Editor /Secondary Author
 
-%F		Label
+%F					Label
 
-%G		Language
+%G					Language
 
-%H		Translated Author
+%H					Translated Author
 
-%I		Publisher
+%I					Publisher
 
-%J		Secondary Title (Journal Name)
+%J					Secondary Title (Journal Name)
 
-%K		Keywords
+%K					Keywords
 
-%L		Call Number
+%L					Call Number
 
-%M		Accession Number
+%M					Accession Number
 
-%N		Number (Issue)
+%N					Number (Issue)
 
-%P		Pages
+%P					Pages
 
-%Q		Translated Title
+%Q					Translated Title
 
-%R		Electronic Resource Number
+%R					Electronic Resource Number
 
-%S		Tertiary Title
+%S					Tertiary Title
 
-%T		Title
+%T					Title
 
-%U		URL
+%U					URL
 
-%V		Volume
+%V					Volume
 
-%W		Database Provider
+%W					Database Provider
 
-%X		Abstract
+%X					Abstract
 
-%Y		Tertiary Author
+%Y					Tertiary Author
 
-%Z		Notes
+%Z					Notes
 
-%0		Reference Type
+%0					Reference Type
 
-%1		Custom 1
+%1					Custom 1
 
-%2		Custom 2
+%2					Custom 2
 
-%3		Custom 3
+%3					Custom 3
 
-%4		Custom 4
+%4					Custom 4
 
-%6		Number of Volumes
+%6					Number of Volumes
 
-%7		Edition
+%7					Edition
 
-%8		Date
+%8					Date
 
-%9		Type of Work
+%9					Type of Work
 
-%?		Subsidiary Author
+%?					Subsidiary Author
 
-%@		ISBN/ISSN
+%@					ISBN/ISSN
 
-%!		Short Title
+%!					Short Title
 
-%#		Custom 5
+%#					Custom 5
 
-%$		Custom 6
+%$					Custom 6
 
-%]		Custom 7
+%]					Custom 7
 
-%&		Section
+%&					Section
 
-%(		Original Publication
+%(					Original Publication
 
-%)		Reprint Edition
+%)					Reprint Edition
 
-%*		Reviewed Item
+%*					Reviewed Item
 
-%+		Author Address
+%+					Author Address
 
-%^		Caption
+%^					Caption
 
-%>		Link to PDF
+%>					Link to PDF
 
-%<		Research Notes
+%<					Research Notes
 
-%[		Access Date
+%[					Access Date
 
-%=		Last Modified Date
+%=					Last Modified Date
 
-%~		Name of Database
+%~					Name of Database
