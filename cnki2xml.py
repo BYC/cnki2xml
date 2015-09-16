@@ -1,4 +1,5 @@
 #coding:utf-8
+#BYC@BUAA 2015-09-16
 import sys
 import re
 import xml.dom.minidom
